@@ -1219,6 +1219,7 @@ h3 {
   display: flex;
   -ms-flex-pack: distribute;
   justify-content: space-around;
+  align-items: center;
   padding: 0px 15px 47px; }
 
 @media (max-width: 539px) {
